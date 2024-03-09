@@ -9,7 +9,7 @@ body {
 body::before {
   content: "";
   position: fixed;
-  background: #010e1b;
+  background-image: url('https://c4.wallpaperflare.com/wallpaper/498/625/125/black-background-simple-digital-art-plants-wallpaper-thumb.jpg');
   background-size: cover;
   left: 0;
   right: 0;
